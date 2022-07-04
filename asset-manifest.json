@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/isotop/static/css/main.2111aa11.css",
+    "main.js": "/isotop/static/js/main.841e4624.js",
+    "index.html": "/isotop/index.html",
+    "main.2111aa11.css.map": "/isotop/static/css/main.2111aa11.css.map",
+    "main.841e4624.js.map": "/isotop/static/js/main.841e4624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2111aa11.css",
+    "static/js/main.841e4624.js"
+  ]
+}
